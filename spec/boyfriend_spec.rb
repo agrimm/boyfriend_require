@@ -48,8 +48,8 @@ describe You do
     end
 
     it "attitude" do
-      prompt("これらのパートナーの条件を読んで腹が立たない").should be_true
-      prompt("これらのパートナーの条件を読んで苦情メールを出そうとは思わなかった").should be_true
+      You.answer("これらのパートナーの条件を読んで腹が立たない").should be_true
+      You.answer("これらのパートナーの条件を読んで苦情メールを出そうとは思わなかった").should be_true
     end
   end
 
