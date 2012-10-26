@@ -1,41 +1,79 @@
 # 私はanswers.ymlに行きたいです！
 # Rename this to answers.yml
 ---
+# English: Engingeer or programmer
 エンジニア or プログラマ: 
+# English: Non smoker? (Required)
 たばこを吸わない: 
+# English: Personality does not change when you drink? (Required)
 アルコールを飲んでも性格が変わらない: 
+# English: At least 5 friends from elementary school, high school, or university that you still keep in contact with (this includes relationships on Facebook)?
 中学、高校、大学時代の友人と現在も交流が続いている人が５人以上いる人（Facebookを含む）: 
+# English: Professional relationships, which have lasted at least one year, with over 20 people (this includes relationships on Facebook)?
 職場並びに仕事関係者以外で1年以上付き合いのある友人が20人以上いる人（Facebookを含む）: 
+# English: Can you speak with your neighbors (regardless of their age or gender) for at least 30 minutes?
 ご近所の人（老若男女）と30分以上楽しく会話ができる人: 
+# English: Do you enjoy interacting with small children?
 小学生以下の子供と一緒に遊ぶことが好きな人: 
+# English: Do you like eating vegetables and natto?
 ! ' 野菜と納豆が好きな人': 
+# English: Can you speak with a person of non-Japanese descent for over 20 minutes (speaking in Japanese is ok)?
 ! ' 外国人と気さくに20分以上話せる人（日本語でもOK）': 
+# English: Do you avoid blaming other people for your own problems?
 ! ' 問題があっても他人のせいにしない人': 
+# English: Can you make plans for leisure activities (trips, hobbies) and execute those plans?
 ! ' レジャーの計画（旅行、趣味）を立てて実行に移すことができる人': 
+# English: Do you avoid being jealous of rich, beautiful or famous people? (Required)
 ! ' 大金持ち、美男美女、芸能人、著名人を見て、嫉妬しない人（必須）': 
+# English: Do you avoid comparing yourself to others, gloating or feeling a general sense of superiority?
 ! ' 他人と比較して卑屈にならず、かつ優越感に浸らない人': 
+# English: Do you strive to always better yourself?
 ! ' 昨日までの自分を超えるための努力を惜しまない人': 
+# English: Can you tolerate social gaming companies like Zynga, GREE, or Mobage?
 ! ' ソーシャルゲーム（GREE、Mobage）に対して嫌悪感がない人': 
+# English: Do you prefer Mac/Linux to Windows?
 ! ' WindowsよりもMacまたはLinuxが好きな人': 
+# English: Do you never, under any circumstances, become violent? (Required)
 ! ' 何があっても暴力を振るわない人（必須）': 
+# English: Will you avoid comparing me with your mother?
 ! ' お母さんと比較しない人': 
+# English: Are you capable of basic greetings ("Good morning", "good night", "that was delicious", "thank you")? (Required)
 ? ! ' あいさつができる人（おはよう、おやすみ、いただきます、こちそうさま、ありがとうは必須）'
 : 
+# English: Do you feels you are happy no matter what your current circumstances may be?
 ! ' 現在の状況はどうであれ自分は幸せだと思う人': 
+# English: Can you share in doing housework/chores?
 ! ' 家事全般を押し付けない人': 
+# English: Do you avoid forcing your beliefs on other people?
 ! ' 自分の価値観を押し付けない人': 
+# English: Do you treat women equally to men?
 ! ' 男尊女卑思考ではない人': 
+# English: Can you be open about money and how you earn a living?
 ! ' お金について隠さずオープンにできる人': 
+# English: Do you sympathize with the work of Peter Drucker and have adopted some of his "seven principles"?
 ! ' 7つの習慣またはピータードラッカーに共感を持ち、自身の生活に取り入れている人': 
+# English: Are you capable of at least basic interaction with anyone, regardless of race, creed, or class?
 ! ' 身分立場損得関係なく他人と接することができる人': 
+# English: Do you never, under any circumstances, become uncontrollably angry? (Required)
 ! ' 何があっても感情的に怒らない人（必須）': 
+# English: Do you have at least one hobby outside of work?
 ! ' 仕事以外に趣味を１つ以上極めている人': 
+# English: Can you play classic or jazz piano?
 ! ' クラシックまたはジャズピアノを弾いている人、もしくは興味がある人': 
+# English: Can go the winter without turning on the AC/heater?
 ! ' 冬の間は暖房をつけなくても平気な人': 
+# English: Do you play at most only 1 hour of videogames a day, or watch at most only 30 minutes of TV?
 ! ' ゲームは１日１時間。テレビは１日30分以下の人': 
+# English: Programmer only questions
+# English: Do you write beautiful code--it makes me cry tears of joy? (Required)
 ! ' きれいなソースが書ける人(きれいなソースを見ると泣いて喜びます)': 
+# English: Do you maintain your own server? (Required, Linux preferred)
 ! ' 自宅サーバーがある人(Linux希望！)': 
+# English: Will you let me help maintain your own server? (Required)
 ! ' 自宅サーバーで遊ばせてくれる人': 
+# English: Do you have public repos on Github? (Required)
 ! ' githubで何か公開している人': 
+# English: You are not angry after reading the above preferences.
 これらのパートナーの条件を読んで腹が立たない: 
+# English: You have not decided to send me hate mail reading the above preferences.
 これらのパートナーの条件を読んで苦情メールを出そうとは思わなかった: 
