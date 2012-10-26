@@ -21,7 +21,7 @@ describe You do
     question " WindowsよりもMacまたはLinuxが好きな人"
     question " 何があっても暴力を振るわない人（必須）"
     question " お母さんと比較しない人"
-    question " あいさつができる人（おはよう、おやすみ、いただきます、こちそうさま、ありがとうは必須）"
+    question " あいさつができる人（おはよう、おやすみ、いただきます、ごちそうさま、ありがとうは必須）"
     question " 現在の状況はどうであれ自分は幸せだと思う人"
     question " 家事全般を押し付けない人"
     question " 自分の価値観を押し付けない人"
