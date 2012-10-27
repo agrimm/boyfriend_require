@@ -12,20 +12,21 @@ Preferences
 1. No one whose personality changes when they drink. (Required)
 1. Someone who has at least 5 friends from elementary school,
    high school, or university that they still keep in contact with.
+  (this includes relationships on Facebook).
 1. Someone who has professional relationships, which have lasted
    at least one year, with over 20 people (this includes relationships
    on Facebook).
 1. Someone who can speak with his neighbors (regardless of their age
    or gender) for at least 30 minutes.
-1. Someone who enjoys interacting with young children.
+1. Someone who enjoys interacting with small children.
 1. Someone who likes eating vegetables and natto.
 1. Someone who can speak with a person of non-Japanese descent for
-   over 20 minutes (even if the spoken language is Japanese).
+   over 20 minutes (speaking in Japanese is ok).
 1. Someone who does not blame other people for his own problems.
 1. Someone who can make plans for leisure activities (trips, hobbies)
    and execute those plans.
 1. Someone who does not become jealous of rich, beautiful or famous
-   people.
+   people. (Required)
 1. Someone who does not compare himself to others, gloating or feeling
    a general sense of superiority.
 1. Someone who strives to always better himself.
@@ -34,8 +35,8 @@ Preferences
 1. Someone who prefers Mac/Linux to Windows.
 1. Someone who does not, under any circumstances, become violent. (Required)
 1. Someone who does not compare me to my mother.
-1. Someone capable of basic greetings. ("Good morning", "good night", 
-   "thank you" required.)
+1. Someone capable of basic greetings. ("Good morning", "good night", "that was delicious",
+   "thank you") (Required)
 1. Someone who feels they are happy no matter what their current
    circumstances may be.
 1. Someone who can share in doing housework/chores.
